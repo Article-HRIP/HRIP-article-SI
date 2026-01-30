@@ -8,7 +8,8 @@ The models described in this repository can
 - data
 - other nesisities (license etc. )
 
-# Requirements for MOBO (We used different environment on Anaconda to make $n_{D}$ predictor. See repository of nd_predictor.
+# Requirements for MOBO
+- (We used different environment on Anaconda to make $n_{D}$ predictor. See repository of nd_predictor.)
 * Python (>3.10)
 * PyTorch==2.2.0+cu118
 * Numpy==1.26.4
