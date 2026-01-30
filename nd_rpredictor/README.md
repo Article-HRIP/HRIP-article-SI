@@ -9,7 +9,8 @@ Here, we build nD(refractive index at D line) predictor based on experimental da
      - molecule polarizibility ($\mathsf{\alpha}$)<br>
      - molecule Volume ($\mathit{V}$)<br>
   
-   * 
+   * Detail prediction scheme is available on our article.
+     
 3. How to run the codes? <br>
    3.1 Prepare the environment following 1. (It is easy to create an environment on Google Colab or Anaconda.) <br>
    3.2 Place two pickle files of $\mathit{n}_{D}$ predictor on directory where you are working
