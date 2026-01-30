@@ -14,8 +14,4 @@ Here, we build nD(refractive index at D line) predictor based on experimental da
    3.1 Prepare the environment following 1. (It is easy to create an environment on Google Colab or Anaconda.) <br>
    3.2 Run jupyter notebook from first cell () <br>
    3.3 See Outputs. <br>
-   
-4. Data preparation on FRATTVAE
-  * Authors of FRATTVAE, molecule generative model applied in this work, provide standardized data.
-    - The availablity is limitted (only academic purpose is available).
-    - See https://github.com/slab-it/FRATTVAE/tree/main for more details.
+
