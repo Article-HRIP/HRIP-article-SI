@@ -20,9 +20,9 @@ The models described in this repository can
 
 # Quick start of our original $n_{D}$ predictor with Molecule generation through MOBO on Google Colab
 1. Upload the jupyter notebook below on Google Colab
-```
+`
 MOBO_with_original_nD_predictor_and_GPU-assisted_DFT.ipynb
-```
+`
 2. Connect to a session with GPU (T4 is enough)
 3. Install requirements <br>
 
