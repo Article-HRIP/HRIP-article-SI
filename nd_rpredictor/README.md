@@ -2,9 +2,11 @@ Here, we build nD(refractive index at D line) predictor based on experimental da
 1. library dependacy
    - To reproduce our result, create a new environment and then install libraries described in requreiments.txt.　<br>
      ```
-     python
-      !pip install -r requirements.txt on isolated clean environment
-      ```
+     conda
+      conda env create -f environment.yml -n new_env
+     ```
+     on isolated clean environment
+     
      <br>
    - There is version dependancy of numpy, statsmodels, and other libraries depolyed in FRATTVAE  (https://github.com/slab-it/FRATTVAE)
 
