@@ -1,5 +1,5 @@
 # HRIP-article-SI
-This is the repository to share supporting information for reviewers.
+This is the repository to share supporting information of python codes for reviewers.
 ## referenced papers for molecule generation
 * https://github.com/slab-it/FRATTVAE
 ## referenced documentation for bayesian optimization
