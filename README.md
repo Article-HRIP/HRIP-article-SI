@@ -12,3 +12,6 @@ This is the repository to share supporting information of python codes for revie
 ### training dataset
 * https://github.com/KanHatakeyama/RefractiveIndexGPT/forpub2.csv
 ### test and validation dataset ->our original (see the paper for more details)
+
+## DFT
+* https://github.com/pyscf/gpu4pyscf
