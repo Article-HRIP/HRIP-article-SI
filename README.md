@@ -1,5 +1,13 @@
 # HRIP-article-SI
-This is the repository to share supporting information of python codes for reviewers.
+This is the repository to share supporting information of python codes for reviewers. <br>
+The models described in this repository can
+- predcit numerous polymer'S refractive index at D line ($n_{D}$)
+- provide specific structures optimized for  miltiple property (e.g. $n_{D}$ and $\Delta\varepsilon_{HOMO-LUMO}$ via generative approach)
+# What we provide here
+- codes
+- data
+- other nesisities (license etc. )
+
 ## referenced codes
 ### referenced papers for molecule generation
 * https://github.com/slab-it/FRATTVAE
