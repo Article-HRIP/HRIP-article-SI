@@ -18,6 +18,23 @@ The models described in this repository can
 * botorch==0.16.1
 * statsmodels==0.14.5
 
+# Quick start of Molecule search through MOBO on Google Colab
+1. Upload 
+```
+MOBO_with_original_nD_predictor_and_GPU-assisted_DFT.ipynb
+```
+2. Connect to a session with GPU (T4 is enough)
+3. Install requirements <br>
+
+```python
+!pip install -r requirements.txt
+```
+
+4. Place two pickle files of $n_{D}$ predictor on \content or directory where currently you are
+5. Run the code from scratch
+6. You will see generated molecules as SMILES (Simplified Molecular Input Line Entry System, )
+7. Download result csv file if you need
+
 ## referenced codes
 ### referenced papers for molecule generation
 * https://github.com/slab-it/FRATTVAE
