@@ -8,6 +8,16 @@ The models described in this repository can
 - data
 - other nesisities (license etc. )
 
+# Requirements
+* Python (>3.10)
+* PyTorch==2.2.0+cu118
+* Numpy==1.26.4
+* DGL==2.4.0+cu118
+* networkx==3.5
+* rdkit==2025.9.3
+* botorch==0.16.1
+* statsmodels==0.14.5
+
 ## referenced codes
 ### referenced papers for molecule generation
 * https://github.com/slab-it/FRATTVAE
