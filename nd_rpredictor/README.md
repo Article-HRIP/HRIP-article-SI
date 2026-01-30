@@ -1,6 +1,6 @@
 Here, we build nD(refractive index at D line) predictor based on experimental data.
 1. library dependacy
-   - To reproduce our result, create a new environment and then install libraries described in requreiments.txt.　<br>
+   - To reproduce our result, create a new environment and then install libraries described in environment.yml.　<br>
      ```
      conda
       conda env create -f environment.yml -n new_env
