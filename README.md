@@ -18,7 +18,7 @@ The models described in this repository can
 * botorch==0.16.1
 * statsmodels==0.14.5
 
-# Quick start of Molecule search through MOBO on Google Colab
+# Quick start of our original $n_{D}$ predictor with Molecule generation through MOBO on Google Colab
 1. Upload 
 ```
 MOBO_with_original_nD_predictor_and_GPU-assisted_DFT.ipynb
