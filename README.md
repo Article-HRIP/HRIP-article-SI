@@ -2,7 +2,7 @@
 This is the repository to share supporting information of python codes for reviewers. <br>
 The models described in this repository can
 - predict numerous polymer's refractive index at D line ($n_{D}$) from smaller-data-trained predictive model<br>
-- provide specific structures optimized for  miltiple property (e.g. $n_{D}$ and $\Delta\varepsilon_{HOMO-LUMO}$ via generative approach)
+- provide specific structures optimized for  miltiple properties (e.g. $n_{D}$ and $\Delta\varepsilon_{HOMO-LUMO}$) via generative approach
 # What we provide here
 - codes
 - data
