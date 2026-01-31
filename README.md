@@ -20,7 +20,7 @@ The models described in this repository can
 * statsmodels==0.14.5
 
 # Quick start of our original $n_{D}$ predictor with Molecule generation through MOBO on Google Colab
-1. Upload the jupyter notebook below on Google Colab
+1. Upload the jupyter notebook below on Google Colab<br>
 `
 MOBO_with_original_nD_predictor_and_GPU-assisted_DFT.ipynb
 `
